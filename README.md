@@ -19,8 +19,12 @@ If you don't understand what this does, ask copilot for an explanation!
 
 1. Activate the virtual environment
 
+`chmod +x ./venv/bin/activate.sh` if you get a permission error
 `./venv/bin/activate.sh` on macos and linux
+
 `./venv/bin/activate.ps1` on windows
+
+1. `python -m pip install -r requirements.txt`
 
 ## Workshop instructions
 
